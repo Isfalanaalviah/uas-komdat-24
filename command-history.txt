@@ -1,0 +1,114 @@
+    1  gh auth status
+    2  gh auth login
+    3  gh auth login
+    4  sudo apt update
+    5  sudo apt upgrade
+    6  sudo apt install neofetch
+    7  sudo apt install git
+    8  ls
+    9  mkdir folder1
+   10  ls
+   11  cd folder1
+   12  cd folder1/
+   13  ls
+   14  nano biodata.txt
+   15  ls
+   16  cat biodata.txt
+   17  git --version
+   18  mkdir latihan-gitl
+   19  ls
+   20  cd latihan-gitl
+   21  sudo install gh
+   22  sudo apt install gh
+   23  gh --version
+   24  sudo apt install gdebi-core wget
+   25  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   26  sudo gdebi google-chrome-stable_current_amd64.deb
+   27  google-chrome
+   28  gh auth login
+   29  google-chrome
+   30  gh auth status
+   31  code .
+   32  gh auth status
+   33  gh auth refresh
+   34  gh auth login
+   35  google-chrome
+   36  gh auth status
+   37  code .
+   38  gh auth status
+   39  gh auth status
+   40  code .
+   41  gh auth status
+   42  ls
+   43  mkdir latihan-git
+   44  ls
+   45  cd latihan-git/
+   46  code .
+   47  gh auth status
+   48  code.
+   49  code .
+   50  google-chrome
+   51  gh auth login
+   52  git --version
+   53  gh --version
+   54  git version
+   55  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   56  nvm --v
+   57  nvm install v14.15.4
+   58  apt-get install git
+   59  git --version 
+   60  sudo apt update
+   61  git --version
+   62  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   63  apt-get install git
+   64  y
+   65  add-apt-repository ppa:git-core/ppa
+   66  sudo-apt install git bash
+   67  get git bash
+   68  git --version
+   69  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   70  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+   71  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+   72  git --version
+   73  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | Bash
+   74  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+   75  sudo apt install
+   76  git --version
+   77  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   78  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"[-s"$NVM_DIR/nvm.sh"]&&\."$NVM_DIR/nvm.sh"
+   79  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   80  git --version
+   81  sudo apt update
+   82  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   83  sudo apt install --reinstall bash
+   84  sudo apt install --bash
+   85  git --version
+   86  sudo apt update
+   87  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   88  sudo apt install --reinstall bash
+   89  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   90  sudo apt update
+   91  sudo apt install curl
+   92  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   93  sudo curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   94  sudo snap remove curl
+   95  sudo apt install curl
+   96  git --version
+   97  sudo apt update
+   98  sudo curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   99  git --version
+  100  sudo apt update
+  101  sudo apt install git
+  102  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+  103  nvm --v
+  104  nvm install v14.15.4
+  105  node -v
+  106  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+  107  ls
+  108  cd uas-komdat-24/
+  109  ls
+  110  code .
+  111  npm install
+  112  npm run start
+  113  clear
+  114  history > command-history.txt
